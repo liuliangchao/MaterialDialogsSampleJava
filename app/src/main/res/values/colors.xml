@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- https://material.io/design/color/the-color-system.html#tools-for-picking-colors -->
+
+
+  <color name="colorPrimary">#008577</color>
+  <color name="colorPrimaryDark">#00574B</color>
+  <color name="colorAccent">#D81B60</color>
+	
+  <color name="primary">#6002ee</color>
+  <color name="primaryDark">#5002c7</color>
+  <color name="accent">#9c47ff</color>
+
+  <color name="primary_custom">#607D8B</color>
+  <color name="primaryDark_custom">#546E7A</color>
+  <color name="accent_custom">#388E3C</color>
+  <color name="primary_custom_translucent">#40388E3C</color>
+
+</resources>
